@@ -43,7 +43,7 @@
                 <br />
                 <br />
                 <asp:Label ID="Label10" runat="server" Text="Age" CssClass="edit"></asp:Label>
-                <asp:TextBox ID="Txt_Age" runat="server" CssClass="txtedit"></asp:TextBox>
+                <asp:TextBox ID="Txt_Age" runat="server" CssClass="txtedit" placeholder="Age"></asp:TextBox>
                 <br /><br />
                 <asp:Label ID="Label11" runat="server" CssClass="edit" Text="Year"></asp:Label>
                 <asp:TextBox ID="Txt_Year" runat="server" CssClass="txtedit"></asp:TextBox>
