@@ -1,0 +1,48 @@
+﻿.add, .btnadd {
+    margin-left: 40px;
+    height: 25px;
+    margin-top: 10px;
+}
+
+.delete, .btndelete {
+    margin-left: 40px;
+    height: 25px;
+}
+
+.btndelete, .btnedit, .btnadd, .btnDB {
+    background-color: rgb(20,120,200);
+}
+
+.panel {
+    padding-right: 50px;
+    /*background-color: rgb(20,120,200);*/
+    background-color: deepskyblue;
+    margin-bottom: 20px;
+}
+
+.gr {
+}
+
+.edit, .btnedit {
+    margin-left: 40px;
+    height: 25px;
+}
+
+.head {
+    position: center;
+}
+
+.txtedit {
+    margin-left: 60px;
+    background-color: black;
+    color: wheat;
+}
+
+.Page {
+    background-color: blue;
+}
+
+.btnDB {
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
